@@ -1,0 +1,67 @@
+======================================
+      SYSTEM HEALTH MONITOR
+======================================
+
+Date and Time:
+Tue Sep 29 06:23:29 AM IST 2026
+
+Current User:
+valle-surya
+
+Hostname:
+valle-surya-VirtualBox
+
+--------------------------------------
+System Uptime
+--------------------------------------
+ 06:23:29 up 11 min,  1 user,  load average: 0.86, 2.50, 1.78
+
+--------------------------------------
+Memory Usage
+--------------------------------------
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.9Gi       204Mi        56Mi       1.9Gi       1.9Gi
+Swap:          3.8Gi       316Ki       3.8Gi
+
+--------------------------------------
+Disk Usage
+--------------------------------------
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           392M  2.1M  390M   1% /run
+/dev/sda2        25G   17G  6.3G  73% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           392M  116K  392M   1% /run/user/1000
+/dev/sr0         51M   51M     0 100% /media/valle-surya/VBox_GAs_7.2.63
+
+--------------------------------------
+CPU Information
+--------------------------------------
+Architecture:                            x86_64
+CPU op-mode(s):                          32-bit, 64-bit
+Address sizes:                           39 bits physical, 48 bits virtual
+Byte Order:                              Little Endian
+CPU(s):                                  2
+On-line CPU(s) list:                     0,1
+Vendor ID:                               GenuineIntel
+Model name:                              Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+CPU family:                              6
+Model:                                   142
+
+--------------------------------------
+Top 10 Running Processes
+--------------------------------------
+    PID COMMAND         %CPU %MEM
+   4165 ps               266  0.1
+   2840 firefox         33.0 12.3
+   1992 gnome-shell     22.8  9.8
+   3468 Isolated Web Co 17.2 13.5
+   4156 system_health.s 15.7  0.0
+   3530 Isolated Web Co  5.5  6.5
+   3060 Privileged Cont  4.7  3.8
+   2769 gnome-terminal-  1.8  1.4
+      1 systemd          1.7  0.3
+
+======================================
+System Health Check Completed
+======================================
